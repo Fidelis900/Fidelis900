@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines= aspiring+Blockchain+Dev;Python+Enthusiast;Learning+Solidity+%26+Cairo;Football+%F0%9F%94%A5+Books+%F0%9F%93%9A+Code+%F0%9F%92%BB" alt="Titles" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines= aspiring+Blockchain+Dev;Python+Enthusiast;Learning+Solidity+%26+Cairo;Football+%F0%9F%94%A5+Books+%F0%9F%93%9A+Code+%F0%9F%92%BB" alt="Titles" /> -->
 </p>
 
 <!-- PROFILE IMAGE -->
